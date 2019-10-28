@@ -11,4 +11,5 @@ package Percobaaan1;
  */
 public interface Payable {
     public int getPaymentAmount();
+    System.out.println("HAIII");
 }
